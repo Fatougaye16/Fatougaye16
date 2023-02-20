@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fatougaye16
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on many projects
+- 💞️ I’m looking to collaborate on many projects, AI, ML
 - 📫 How to reach me fatou16gaye@gmail.com
 
 <!---
